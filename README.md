@@ -1,3 +1,6 @@
 # Ignite-Feed-ReactJS-TypeScript
 
-![Projeto Final](https://github.com/FernandoAgostiniSilva/Ignite-Feed-ReactJS-TypeScript/blob/main/assets/capa.png)
+<br>
+
+![Projeto Final](https://github.com/FernandoAgostiniSilva/Ignite-Feed-ReactJS-TypeScript/blob/master/src/assets/Capa.png)
+
