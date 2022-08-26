@@ -26,7 +26,7 @@
       author: {
         avatarUrl: "https://github.com/fernandoagostinisilva.png", 
         name: "Fernando Agostini",
-        role: "Dev Front-End"
+        role: "Web Developer"
       },
 
       content: [
@@ -41,7 +41,7 @@
       author: {
         avatarUrl: "https://github.com/fernandoagostinisilva.png", 
         name: "Fernando Agostini",
-        role: "Dev Front-End"
+        role: "Web Developer"
       },
 
       content: [
