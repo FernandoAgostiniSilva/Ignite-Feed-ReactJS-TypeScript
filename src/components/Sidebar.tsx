@@ -15,11 +15,11 @@ export function Sidebar() {
                 <Avatar src="https://github.com/fernandoagostinisilva.png" />
 
                 <strong>Fernando Agostini</strong>
-                <span>Dev Front-End</span>
+                <span>Web Developer</span>
             </div>
 
             <footer>
-                <a href="#">
+                <a href="https://github.com/FernandoAgostiniSilva">
                     <PencilLine size={20} />
                     Editar seu perfil
                 </a>
